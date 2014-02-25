@@ -81,7 +81,7 @@ class RegRuApiClass {
      * @example example.php
      * @throws Exception
      */
-    public function __construct($config) {
+    public function __construct(array $config) {
         if (is_array($config)) {
             $this->setApiLogin($config['apiLogin']);
             $this->setApiPassword($config['apiPassword']);
