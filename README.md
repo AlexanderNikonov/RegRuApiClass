@@ -1,4 +1,3 @@
 RegRuApiClass
 =============
-
-Reg.Ru Api Class
+@todo Class under development
